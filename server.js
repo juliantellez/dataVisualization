@@ -25,5 +25,5 @@ require('./app/routes')(app);
 
 // START APP :::::::::::::::::::::::::::::::::::::::::::::::::::::::
 app.listen(port);	
-console.log('Magic happens on port ' + port); // console log
+console.log('Port: ' + port); // console log
 exports = module.exports = app; 						

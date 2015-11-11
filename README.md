@@ -1,1 +1,6 @@
-# dataVisualization
+INSTRUCTIONS ::::::::::::::::::::::::::::::::::::::::::::
+
+submitted by : Julian Tellez
+
+
+# datavis
